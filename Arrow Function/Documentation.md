@@ -10,8 +10,6 @@ marp: true
 
 ###### &copy; Solid-Analytics
 
-##
-
 ![JavaScript](https://stackdiary.com/wp-content/uploads/2023/03/How-to-Change-Background-Color-with-JavaScript.png)
 
 ---
@@ -25,3 +23,7 @@ An arrow function expression is a compact alternative to a traditional function 
 ![Arrow function Syntax](https://usemynotes.com/wp-content/uploads/2021/05/what-is-an-arrow-function-in-javascript.jpg)
 
 ---
+
+## Map
+
+## Note Description. map() creates a new array from calling a function for every array element. map() does not execute the function for empty elements.
